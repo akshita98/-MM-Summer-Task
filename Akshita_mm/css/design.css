@@ -1,0 +1,181 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	background-color: silver;
+}
+.navbar{
+	background: white;
+
+}
+.top-bar{
+	width: 100%;
+	background: #59616d;
+	margin-top: -20px;
+	height: 30px;
+}
+.top-bar ul{
+	margin-top: 0px;
+
+}
+.top-bar ul li{
+	display: inline-block;
+	padding: 0px;
+}
+.top-bar ul li a{
+	
+	margin: 0px;
+	padding: 10px 20px;
+	font-family: arial;
+
+}
+.edit{
+	font-size: 14px;
+	color: white;
+
+}
+#hot{
+	color: #b5c0d1;
+	margin-left: -40px;
+	
+}
+#navimage{
+	margin-top: -17px;
+	margin-left: -16px;
+}
+.newsimg1{
+	width: 453px;
+	
+}
+#mainnews{
+	text-align: center;
+	font-size: 25px;
+
+
+
+}
+#maincontent{
+	text-align: center;
+	font-size: 15px;
+}
+.line{
+	border: 1px solid grey;
+	
+	position: center;
+}
+.box1{
+	margin-left: -15px;
+	height: 63px;
+	
+	line-height: 50px;
+	background: #59616d;
+}
+#lastbox{
+	margin-left: -15px;
+	height: 60px;
+	background: #59616d;
+	line-height: 50px;
+}
+#lastbox:hover{
+	background: #41464f;
+}
+.textbox{
+	padding: 5px;
+	color: white;
+}
+.box1:hover{
+	background: #41464f;
+}
+#poll{
+	margin-left: 22px;
+	color: white;
+	
+	line-height: 20px;
+}
+#borderpoll{
+	margin-left: 12px;
+	width: 362px;
+	height: 437px;
+	background: #59616d;
+}
+.checkbox{
+	margin: 5px;
+}
+#question{
+	font-size: 16px;
+	margin: 15px;
+	
+	color: white;
+}
+#votebutton{
+	margin: 20px 15px;
+}
+#article{
+	color: white;
+	font-size: 20px;
+	margin-top: 19px;
+
+}
+
+
+.img1{
+	width: 100%;
+	height: 60%;
+	
+}
+.imagetitle{
+	margin:10px;
+	font-size: 30px;
+	color: white;
+	position: relative;
+	margin-top: -70px;
+}
+
+
+
+.imagebox{
+	width: 200px;
+	height: 200px;
+	
+	padding: 5px;
+}
+.striptopic{
+	color: #59616d;
+	font-size: 20px;
+}
+#subimage{
+	height: 80%;
+	width: 100%;
+	margin: 15px 10px;
+	
+}
+.imagetitle2{
+	margin-left:30px;
+	font-size: 30px;
+	color: white;
+	position: relative;
+	margin-top: -70px;
+}
+.circle{
+	border: 1px solid ;
+	border-radius: 125px;
+	width: 150px;
+	height: 150px;
+	border-color: #59616d;
+	background-color: #59616d;
+	
+}
+
+
+
+.circletext{
+	text-align: center;
+	color: white;
+	line-height: 125px;
+}
+
+
+
+
+.article-heading{
+	margin-top: 500px;
+	}
